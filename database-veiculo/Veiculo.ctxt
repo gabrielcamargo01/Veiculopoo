@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Veiculo
+comment1.params=
+comment1.target=java.lang.String\ printBirthday()
+comment2.params=
+comment2.target=int\ getAno()
+comment2.text=GET\ Method\ Propertie\ id
+comment3.params=ano
+comment3.target=void\ setAno(int)
+comment3.text=SET\ Method\ Propertie\ id
+comment4.params=
+comment4.target=java.lang.String\ getModelo()
+comment4.text=GET\ Method\ Propertie\ modelo
+comment5.params=modelo
+comment5.target=void\ setModelo(java.lang.String)
+comment5.text=SET\ Method\ Propertie\ fullName
+comment6.params=
+comment6.target=int\ getRegistration()
+comment6.text=GET\ Method\ Propertie\ registration
+comment7.params=registration
+comment7.target=void\ setRegistration(int)
+comment7.text=SET\ Method\ Propertie\ registration
+numComments=8
